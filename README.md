@@ -1,2 +1,2 @@
-# mfrancisco-homehowrk-03
+# mfrancisco-homework-03
 Password Generator for Northwestern Coding Bootcamp
